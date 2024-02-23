@@ -6,7 +6,7 @@ public class Zad3Test {
 
     @Test
     public void odwrocone_znaki() {
-        String resoult= Zad3.odwrocone_znaki("A B C");
-        assertEquals("C B A",resoult);
+        String result= Zad3.odwrocone_znaki("A B C");
+        assertEquals("C B A",result);
     }
 }
